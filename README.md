@@ -1,4 +1,5 @@
-# Artificial Intelligence Project with Bark, Mistral, and NLTK
+# k-ai
+### k-ai is an Artificial Intelligence Project with Bark, Mistral, and NLTK
 
 This project leverages the Bark, Mistral, and NLTK libraries to implement artificial intelligence functionalities. These libraries enable natural language processing (NLP) and the construction of machine learning models.
 
