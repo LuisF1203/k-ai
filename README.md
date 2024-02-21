@@ -11,7 +11,7 @@ Before getting started, ensure you have `Python` and `pip` installed in your env
   ```bash
   ollama run mistral
   ```
--Run the following command to install the project dependencies
+- Run the following command to install the project dependencies
   ```bash
   pip install -r requirements.txt
   ```
