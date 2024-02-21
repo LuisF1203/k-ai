@@ -28,3 +28,10 @@ Before getting started, ensure you have `Python` and `pip` installed in your env
 
 > [!CAUTION]
 > Make sure you have at least 50GB of space
+## Low performance?
+- The full version of Bark requires around 12Gb of memory to hold everything on GPU at the same time. If you have a lowey GPU add the following code snippet before your generation:
+  ```bash
+  import os
+  os.environ["SUNO_OFFLOAD_CPU"] = "True"
+  os.environ["SUNO_USE_SMALL_MODELS"] = "True"
+  ```
