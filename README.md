@@ -11,6 +11,11 @@ Before getting started, ensure you have `Python` and `pip` installed in your env
   ```bash
   ollama run mistral
   ```
+- Install bark from suno ai
+  ```bash
+  git clone https://github.com/suno-ai/bark
+  cd bark && pip install . 
+  ```
 - Run the following command to install the project dependencies
   ```bash
   pip install -r requirements.txt
