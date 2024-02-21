@@ -11,4 +11,3 @@ Before getting started, ensure you have Python and pip installed in your environ
 pip install -r requirements.txt
 ```
 ![Texto Alternativo](images/example.png)
-![Texto Alternativo](ana.mp4)
