@@ -10,3 +10,4 @@ Before getting started, ensure you have Python and pip installed in your environ
 ```bash
 pip install -r requirements.txt
 
+![Texto Alternativo](images/ejemplo.png)
