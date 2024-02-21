@@ -18,3 +18,8 @@ Before getting started, ensure you have `Python` and `pip` installed in your env
 
 ![Texto Alternativo](images/example.png)
 
+> [!WARNING]
+> To use this project, I recomend using a GPU with 8 or more space of vram
+
+> [!CAUTION]
+> Make sure you have at least 50GB of space
