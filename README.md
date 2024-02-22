@@ -6,7 +6,7 @@ This project leverages the Bark, Mistral, and NLTK libraries to implement artifi
 ## Installation
 
 Before getting started, ensure you have `Python` and `pip` installed in your environment
-- Install [ollama] ([https://duckduckgo.com](https://ollama.com/download)).
+- Install ([ollama](https://ollama.com/download)).
 - Pull mistral model 
   ```bash
   ollama run mistral
